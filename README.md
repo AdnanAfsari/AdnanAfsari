@@ -6,7 +6,7 @@
    - I'm a Freelance Shopify Expert.
    - I'm currently focusing only on Shopify.
    - I'm always learning and improving my skills.
-   - I've three years of experience as a Front-end developer and Technical Support Engineer.
+   - I've three years of experience as a Front-end developer and Technical Support Engineer and Shopify theme developer.
 
 <h2> Get in Touch</h2>
 
