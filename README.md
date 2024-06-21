@@ -25,29 +25,26 @@
 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href="https://www.shopify.com" target="_blank"> 
+<a href="" target="_blank"> 
     <img alt="Shopify" src="https://img.shields.io/badge/shopify-8DB543?style=for-the-badge&logo=Shopify&logoColor=white">
   </a>
- <a href="https://www.shopify.com" target="_blank"> 
+ <a href="" target="_blank"> 
     <img alt="Shopify" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   </a>
-  <a href="https://www.shopify.com" target="_blank"> 
+  <a href="" target="_blank"> 
     <img alt="CSS#" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   </a>
-  <a href="https://www.shopify.com" target="_blank"> 
+  <a href="" target="_blank"> 
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   </a>
   <a href="https://www.github.com" target="_blank"> 
     <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
-   <a href="https://www.shopify.com" target="_blank"> 
+   <a href="" target="_blank"> 
     <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   </a>
    <a href="https://www.react.com" target="_blank"> 
     <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  </a>
-  <a href="https://www.shopify.com" target="_blank"> 
-    <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
   </a>
   <a href="https://www.nextjs.com" target="_blank"> 
     <img alt="NextJs" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
@@ -55,10 +52,13 @@
   <a href="https://www.gatsby.com" target="_blank"> 
     <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white">
   </a>
-  <a href="https://www.shopify.com" target="_blank"> 
+  <a href="" target="_blank"> 
     <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
   </a>
-  <a href="https://www.shopify.com" target="_blank"> 
+   <a href="" target="_blank"> 
+    <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
+  </a>
+  <a href="" target="_blank"> 
     <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
   </a>
 
