@@ -4,9 +4,9 @@
 
 
    - I'm a Freelance Shopify Expert.
-   - I'm currently focusing only with Shopify.
-   - I'm currently improving my design skills.
-   - I've three years of experience as a Front-end developer.
+   - I'm currently focusing only on Shopify.
+   - I'm always learning and improving my skills.
+   - I've three years of experience as a Front-end developer and Technical Support Engineer.
 
 <h2> Get in Touch</h2>
 
